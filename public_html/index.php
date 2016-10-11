@@ -1,7 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
+
 		<meta charset="UTF-8">
+		<!-- add CSS file -->
+		<link href="css/stylesheet.css" rel="stylesheet" type="text/css" />
 		<title>Erm mah gerd ish a hermpage.</title>
 	</head>
 	<body>
@@ -15,7 +18,7 @@
 
 					Similique maiestatis at ius, nec et illud dolore commodo. Eu pri omnis putent, nam an dicta persius mediocritatem. Mucius delicatissimi eu qui. No nam lobortis salutatus delicatissimi, ut nec nulla audire. Eu mea numquam splendide omittantur, usu honestatis efficiantur cu. Est alia ferri et, semper ocurreret consetetur ea mei, ad nam vero saepe.
 				</p>
-				<center><img src="images/puppy.jpg" alt="Nova-puppy" height="400" width="400"></center>
+				<img src="images/puppy.jpg" alt="Nova-puppy" height="400" width="400">
 			</section>
 			<section>
 				<h2></h2>
@@ -34,16 +37,16 @@
 						<th>Columb B</th>
 					</tr>
 					<tr>
-						<th>Cat</th>
-						<th>Dog</th>
+						<td>Cat</td>
+						<td>Dog</td>
 					</tr>
 					<tr>
-						<th>Car</th>
-						<th>Bike</th>
+						<td>Car</td>
+						<td>Bike</td>
 					</tr>
 					<tr>
-						<th>Wars</th>
-						<th>Trek</th>
+						<td>Wars</td>
+						<td>Trek</td>
 					</tr>
 				</table>
 			</section>
