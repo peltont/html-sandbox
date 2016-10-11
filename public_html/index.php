@@ -15,7 +15,7 @@
 
 					Similique maiestatis at ius, nec et illud dolore commodo. Eu pri omnis putent, nam an dicta persius mediocritatem. Mucius delicatissimi eu qui. No nam lobortis salutatus delicatissimi, ut nec nulla audire. Eu mea numquam splendide omittantur, usu honestatis efficiantur cu. Est alia ferri et, semper ocurreret consetetur ea mei, ad nam vero saepe.
 				</p>
-				<img src="images/puppy.jpg" alt="Nova-puppy" height="200" width="200">
+				<center><img src="images/puppy.jpg" alt="Nova-puppy" height="400" width="400"></center>
 			</section>
 			<section></section>
 			<section></section>
