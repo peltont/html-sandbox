@@ -17,8 +17,36 @@
 				</p>
 				<center><img src="images/puppy.jpg" alt="Nova-puppy" height="400" width="400"></center>
 			</section>
-			<section></section>
-			<section></section>
+			<section>
+				<h2></h2>
+				<ul>
+					<li>Nova</li>
+					<li>Reading</li>
+					<li>Games</li>
+					<li>More games</li>
+					<li>More reading</li>
+				</ul>
+			</section>
+			<section>
+				<table>
+					<tr>
+						<th>Columb A</th>
+						<th>Columb B</th>
+					</tr>
+					<tr>
+						<th>Cat</th>
+						<th>Dog</th>
+					</tr>
+					<tr>
+						<th>Car</th>
+						<th>Bike</th>
+					</tr>
+					<tr>
+						<th>Wars</th>
+						<th>Trek</th>
+					</tr>
+				</table>
+			</section>
 		</main>
 
 	</body>
